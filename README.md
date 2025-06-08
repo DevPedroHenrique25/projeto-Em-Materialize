@@ -27,8 +27,9 @@ Este projeto é um site responsivo desenvolvido utilizando o framework **Materia
   - Formulários customizados
 
 ## 🔧 Como usar
-
-1. Clone o repositório:
+1. Acesse: https://devpedrohenrique25.github.io/projeto-Em-Materialize/
+2. ou
+3. Clone o repositório:
    ```bash
    git clone https://github.com/seu-usuario/nome-do-repositorio.git
 Acesse a pasta do projeto:
