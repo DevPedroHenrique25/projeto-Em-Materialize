@@ -4,6 +4,8 @@ Este projeto é um site responsivo desenvolvido utilizando o framework **Materia
 
 ## 📸 Preview
 
+![Preview](./preview.png) 
+
 ---
 
 ## 🚀 Tecnologias Utilizadas
