@@ -26,7 +26,7 @@ Este projeto é um site responsivo desenvolvido utilizando o framework **Materia
   - Tooltips
   - Formulários customizados
 
-## 🔧 Como usar
+## 🔧 Como visualizar o projeto
 1. Acesse: https://devpedrohenrique25.github.io/projeto-Em-Materialize/
 2. ou
 3. Clone o repositório:
